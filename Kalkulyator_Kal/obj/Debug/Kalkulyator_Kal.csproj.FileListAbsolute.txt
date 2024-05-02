@@ -1,0 +1,16 @@
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\bin\Debug\Kalkulyator_Kal.exe.config
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\bin\Debug\Kalkulyator_Kal.exe
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\bin\Debug\Kalkulyator_Kal.pdb
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\obj\Debug\Kalkulyator_Kal.csproj.AssemblyReference.cache
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\obj\Debug\Kalkulyator_Kal.csproj.SuggestedBindingRedirects.cache
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\obj\Debug\MainWindow.g.cs
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\obj\Debug\App.g.cs
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\obj\Debug\Kalkulyator_Kal_MarkupCompile.cache
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\obj\Debug\Kalkulyator_Kal_MarkupCompile.lref
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\obj\Debug\MainWindow.baml
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\obj\Debug\Kalkulyator_Kal.g.resources
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\obj\Debug\Kalkulyator_Kal.Properties.Resources.resources
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\obj\Debug\Kalkulyator_Kal.csproj.GenerateResource.cache
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\obj\Debug\Kalkulyator_Kal.csproj.CoreCompileInputs.cache
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\obj\Debug\Kalkulyator_Kal.exe
+C:\Users\Володя\source\repos\С#\Kalkulyator_Kal\Kalkulyator_Kal\obj\Debug\Kalkulyator_Kal.pdb
